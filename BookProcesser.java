@@ -10,7 +10,7 @@ Date: 2025-12-18
 Purpose: Single-thread vs multi-thread processing of large Project Gutenberg texts.
 */
 
-public class BookProcessor {
+public class BookProcesser {
 
     // Pick two big books (plain text)
     // War and Peace: https://www.gutenberg.org/files/2600/2600-0.txt :contentReference[oaicite:0]{index=0}
